@@ -1,36 +1,33 @@
 # Final Project  
 
-**Course**: CSCI 3341 Software Engineering II  
-**Team Size**: 2–3 students  
-**Duration**: 1 weeks  
-**Tech**: Dart & Flutter
+### Customer Request
+
+*ADD YOUR CUSTOMER REQUEST HERE*
 
 ---
 
-## 📱 Project Overview
+## Behavior-Driven Design
 
-The purpose of this final project is to put into practice the tools learned in SE I and SE II. You will build a simple mobile application using Extreme Programming, DevOps, and Pair Programming. Record the lifecycle of your application and present it in a PowerPoint format in class.
+### User Stories
 
----
+*ADD YOUR STORIES HERE*
 
-## 🎯 Project Objectives
+### Validation Sketch
 
-### Validation (BDD):
-- [ ] User Stories
-- [ ] Validation Sketch
-- [ ] Low-fidelity prototype (Figma)
+*ADD YOUR SKETCH HERE*
 
-### Verification (TDD):
-- [ ] Acceptance Criteria (Gherkin Style)
-- [ ] Test Suite
-- [ ] Configuration-as-Code
-- [ ] Continuous Integration
+### Lo-Fi Prototype
+
+*ADD YOUR PROTOTYPE HERE*
 
 ---
 
-## 🔧 DevOps & Pair Programming Checklist
-- [ ] Use branches per feature or page
-- [ ] Open and review at least 1 PR per member
-- [ ] Setup CI pipeline (PR Template & GitHub Actions)
-- [ ] Assigned Driver & Navigator
-- [ ] Include testing (unit & integration)
+## Test-Driven Development
+
+### Happy Paths
+
+*ADD HAPPY PATH ACCEPTANCE CRITERIA HERE*
+
+### Sad Paths
+
+*ADD SAD PATH ACCEPTANCE CRITERIA HERE*
